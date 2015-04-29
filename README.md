@@ -1,20 +1,14 @@
 # barebone-raytracer
 
-FIXME: description
-
 ## Installation
 
-Download from http://example.com/FIXME.
+Download from https://github.com/ahlae/barebone-raytracer.
 
 ## Usage
 
-FIXME: explanation
-
-    $ java -jar barebone-raytracer-0.1.0-standalone.jar [args]
+$ java -jar barebone-raytracer-0.1.0-standalone.jar [args]
 
 ## Options
-
-FIXME: listing of options this app accepts.
 
 ## Examples
 
@@ -22,15 +16,9 @@ FIXME: listing of options this app accepts.
 
 ### Bugs
 
-...
-
-### Any Other Sections
-### That You Think
-### Might be Useful
-
 ## License
 
-Copyright © 2015 FIXME
+Copyright © 2015
 
 Distributed under the Eclipse Public License either version 1.0 or (at
 your option) any later version.
