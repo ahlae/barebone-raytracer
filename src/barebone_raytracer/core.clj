@@ -1,7 +1,13 @@
 (ns barebone-raytracer.core
-  (:gen-class))
+  (:gen-class)
+  (:require [barebone-raytracer.world :as world]
+            [barebone-raytracer.tracer :as tracer]
+            [barebone-raytracer.geo-obj :as geo-obj]
+            [barebone-raytracer.jswing :as jswing]))
 
 (defn -main
-  "I don't do a whole lot ... yet."
+  ""
   [& args]
-  (println "Hello, World!"))
+  (jswing/canvas))
+
+(-main)
