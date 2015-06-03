@@ -1,2 +1,3 @@
-#!/bin/sh
-echo "A test!"
+#!/bin/sh -x
+clojure tracer_test.clj
+
