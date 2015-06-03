@@ -2,6 +2,6 @@
   (:require [clojure.test :refer :all]))
 
 (deftest f-test
-  (is (= 1 1)))
+  (is (= 1 2)))
 
 (run-tests)
