@@ -1,3 +1,3 @@
-#!/bin/sh -x
+#!/bin/sh -xe
 clojure tracer_test.clj
 
